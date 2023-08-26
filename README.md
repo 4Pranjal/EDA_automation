@@ -66,10 +66,6 @@ Exploratory Data Analysis (EDA) is a crucial step in the data analysis process. 
 3. Run the code using your preferred Python environment.
 4. View the generated reports and interactive visualizations.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Author
 
 This repository is maintained by 4Pranjal. Feel free to use and modify the code for educational and research purposes.
